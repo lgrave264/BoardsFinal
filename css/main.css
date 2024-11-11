@@ -1,7 +1,8 @@
 body {
     background-image: url("../images/forest.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .TitleBox{
