@@ -40,3 +40,16 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
     color: red;
 }
+
+.SIPbox{
+    border: 2px red solid;
+    border-radius: 1rem;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 50rem;
+    margin-bottom: 50rem;
+    padding: 1rem 1rem 1rem 1rem;
+    font-size: 5vw;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: red;
+}
