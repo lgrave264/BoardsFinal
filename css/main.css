@@ -10,11 +10,11 @@ body {
 }
 
 a:link{
-    color:blue;
+    color:darkblue;
 }
 
 a:visited{
-    color: blue;
+    color: darkblue;
 }
 
 .SIPbox{
@@ -45,6 +45,18 @@ a:visited{
     text-align: center;
     padding: 10px;
     font-size: 1rem;
+}
+
+#obj a:link a:visited{
+    color:#fff;
+}
+
+#proj a:link a:visited{
+    color:#fff;
+}
+
+#link a:link a:visited{
+    color:#fff;
 }
 
 /* Section Styles */
