@@ -63,7 +63,8 @@ a:visited{
 .section {
     padding: 20px;
     max-width: 1200px;
-    margin: 20px auto;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
 }
 .objectives {
     background-color: #ecf0f1;
@@ -76,9 +77,10 @@ a:visited{
     flex-wrap: wrap;
     margin-bottom: 20px;
     align-items: center;
-    background-color: #ecf0f1;
+    background-color: #ecf0f1af;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: black;
 }
 .content-section:nth-child(even) {
     flex-direction: row-reverse;
