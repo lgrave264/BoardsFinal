@@ -65,6 +65,8 @@ a:visited{
     max-width: 1200px;
     margin-top: 5rem;
     margin-bottom: 5rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 .objectives {
     background-color: #ecf0f1;
