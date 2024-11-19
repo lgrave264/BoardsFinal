@@ -47,6 +47,18 @@ a:visited{
     font-size: 1rem;
 }
 
+#obj a:link a:visited{
+    color:#fff;
+}
+
+#proj a:link a:visited{
+    color:#fff;
+}
+
+#link a:link a:visited{
+    color:#fff;
+}
+
 /* Section Styles */
 .section {
     padding: 20px;
@@ -54,7 +66,7 @@ a:visited{
     margin: 20px auto;
 }
 .objectives {
-    background-color: #ecf0f1c0;
+    background-color: #ecf0f1;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -64,7 +76,7 @@ a:visited{
     flex-wrap: wrap;
     margin-bottom: 20px;
     align-items: center;
-    background-color: #ecf0f1c0;
+    background-color: #ecf0f1;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -92,7 +104,7 @@ a:visited{
     flex-wrap: wrap;
     gap: 10px;
     padding: 20px;
-    background-color: #ecf0f1c0;
+    background-color: #ecf0f1;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
